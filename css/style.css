@@ -1,0 +1,25 @@
+@charset "utf-8";
+.red {
+  background-color: #ff0000;
+}
+.orange {
+  background-color: #ffa600;
+}
+.yellow {
+  background-color: #ffff00;
+}
+.green {
+  background-color: #008000;
+}
+.blue {
+  background-color: #0000ff;
+}
+.violet {
+  background-color: #ee82ee;
+}
+.purple {
+  background-color: #800080;
+}
+.black {
+  background-color: #000000;
+}
